@@ -1,0 +1,8 @@
+{
+  "name": "Nemar-Test-Data",
+  "version": "0.0.1",
+  "dependencies": {
+    "influx": "^3.4.0",
+    "kairosdb": "0.0.3"
+  }
+}
